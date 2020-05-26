@@ -1,7 +1,7 @@
 # TeknologiWebCodeigniter
 # Kelompok
 - Ares Yudha_172101794
--
+- Ari Eko W. 172101863
 -
 -
 
